@@ -1,0 +1,97 @@
+Nama      : Sephya Zahra Maharani
+NIM       : 062040832807
+NO. ABSEN : 15
+Kelas     : 5 MIO
+
+1. Apa itu Git dan kegunaannya?
+    Jawab
+   * Pengertian :
+      Git (Group Inclusive Tour) adalah sistem kendali versi terdistribusi, yang berarti semua codebase dan riwayat kode akan tersedia 
+      di komputer setiap developer untuk memudahkan pembuatan branch dan penggabungan. Git merupakan version control system yang di
+      gunakan untuk menyimpan, tracking, dan me-manage perubahan pada code yang kita buat saat mengembangkan suatu aplikasi. Git ini
+      memberikan kemudahan programmer untuk dapat mengetahui perubahan source code dibandingkan harus membuat sebuah file baru.
+   * Kegunaan :
+      1)  Mengelola versi source code program dengan menentukan baris serta kode yang akan ditambahkan atau diganti.
+      2)  Dapat memudahkan dalam melakukan sebuah dokumentasi project, baik dari sisi source code nya ataupun
+          perubahan fungsi.
+      3)  Mudah dalam mendesain sehingga akan sangat mudah dipahami.
+      4)  Repositasi dapat disimpan dengan offline maupun online.
+      5)  Perubahan yang ada di setiap file ini nantinya akan di commit sehingga bisa dilihat.
+      6)  Dapat berkontribusi pada berbagai proyek open source.
+      7)  Dapat memahami bagaimana berkolaborasi dalam satu atau lebih proyek.
+      8)  Backup, anda  bisa kembali ke versi sebelumnya dengan mudah bila terjadi error atau kendala saat membuat versi terbaru.
+      9)  Dapat menyimpan secara otomatis semua perubahan yang ada, baik itu dari penambahan code, perubahan versi software, para developer
+          tidak perlu khawatir. Jika ada masalah, siapapun bisa melihat data yang tersimpan dan memperbaikinya.
+      10) Dapat memahami bagaimana aplikasi modern diterapkan.
+      
+2. Apa itu Github dan kegunaannya?
+    Jawab
+   * Pengertian
+     Github adalah platform atau layanan web yang memungkinkan tim developer untuk bekerja bersama secara online. Melalui Github, developer 
+     tidak hanya bisa menyimpan dan mengelola kode, tapi juga dapat mengajak timnya mengecek kode diwaktu dan satu tempat yang sama. Github
+     adalah situs web berbasis cloud yang bisa membantu para pengguna untuk menyimpan, mengelola dan mengembangkan project/
+     repository git.
+   * Kegunaan :
+     1) Mencegah perubahan kode yang bisa merusak kode asli.
+     2) Sebagai prtofolio bagi developer.
+     3) Memudahkan kolaborasi pengerjaan project.
+     4) Github digunakan untuk menyimpan source code untuk suatu proyek dan melacak riwayat lengkap semua perubahan kode itu.
+     5) Github memudahkan developer dalam menggunakan git dengan user-interfase nya yang mudah dipahami.
+     
+3. Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-masing istilah tersebut!
+    Jawab
+   Istilah-istilah di Git :
+    1)  Repository
+        Database yang menyimpan history/riwayat perubahan.
+    2)  Snapshot
+        Potret kondisi file dan folder pada saat tertentu.
+    3)  Commit
+        Snapshot yang disimpan di repository.
+    4)  Branch
+        Serangkaian commit yang berkaitan sehingga jika digambar seperti garis lurus berisi banyak commit. Satu repository bisa berisi
+        banyak branch.
+    5)  Master
+        Nama branch default yang diberikan git pada waktu kita membuat repository. Branch master ini tidak istimewa. Dia dapat dihapus
+        dan direname sesuka hati.
+    6)  Head
+        Ujung branch, commit terbaru dalam branch
+    7)  HEAD
+        Head yang sedang aktif. Walaupun satu repository bisa memiliki banyak branch, tapi cuma satu yang aktif.
+    8)  Working Folder
+        Folder berisi file dan folder tempat kita bekerja. Biasanya working folder berisi banyak file source code untuk aplikasi yang sedang 
+        kita buat.
+    9)  Staging Area
+        Snapshot dari working folder yang akan kita simpan pada saat commit. Dengan adanya staging area, kita bisa memilih perubahan mana yang
+        akan di commit dan mana yang tidak.
+    10) Object Store
+        Database tempat semua commit disimpan
+    11) Push
+        Push untuk menyimpan perubahan yang telah kita lakukan ke dalam sebuah repository yang berada di git server (remote) istilahnya di upload
+        ke dalam sebuah repository.
+    12) Pull
+        Menarik seluruh data perubahan yang telah dilakukan apanila kita tertinggal beberapa titik di bawah.
+    13) Fetch
+        Hampir sama seperti pull, Fetch hanya mengambil perubahan tanpa merging kedalam branch yang aktif.
+    14) Remote
+        Tempat penyimpanan di server git.
+    15) Merge
+        Penggabungan code antara branch 1 dengan branch yang lainnya.
+        
+4. Sebutkan layanan selain github!
+    Jawab
+   Layanan selain Github :
+   1)  Buddy
+   2)  Bitbucket
+   3)  Gogs (Go Git Service)
+   4)  SourceForge
+   5)  AWS CodeCommit
+   6)  GitBucket
+   7)  Phabrator
+   8)  Beastalk
+   9)  Allura
+   10) Gitea
+   11) CodeGiant
+   12) Trac
+   13) GitLab
+   14) Kallithea
+   15) GitPrep
